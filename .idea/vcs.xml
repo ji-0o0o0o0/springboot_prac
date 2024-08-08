@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part1/02.rest-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part1/03.exception" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part1/04.validation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part1/06.memorydb" vcs="Git" />
+  </component>
+</project>
