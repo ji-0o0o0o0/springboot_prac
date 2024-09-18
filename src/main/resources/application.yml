@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: springboot-developer
+  jpa:
+    show-sql: true #전송 쿼리 확인
+    properties:
+      hibernate:
+        format_sql: true
+
+    # 테이브 생성 후에 data.sql 실행
+    defer-datasource-initialization: true
+
+
