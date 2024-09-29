@@ -28,11 +28,11 @@ public class Article {
     private String content;
 
     @CreatedDate
-    @Column(name = "created_at")
+    @Column(name = "created_at")// 엔티티가 생성될 떄 시간 저장
     private LocalDateTime createdAt;
 
     @LastModifiedDate
-    @Column(name = "updated_at")
+    @Column(name = "updated_at")//엔티티가 수정될 떄 수정 시간 저장
     private LocalDateTime updatedAt;
 
     @Builder
